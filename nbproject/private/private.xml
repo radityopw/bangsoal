@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/StartUp.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/shared/Configuration.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/shared/Version.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/shared/Common.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/dao/SubjectDaoFile.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/dao/specs/SubjectDao.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/SubjectView.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/listmodel/SubjectListModel.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/entity/Concept.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/dao/specs/ConceptDao.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/entity/Subject.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/dao/ConceptDaoFile.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/listmodel/ConceptListModel.java</file>
+            <file>file:/C:/workspaces/bangsoal/src/bangsoal/QuestionFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
