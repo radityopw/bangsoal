@@ -351,8 +351,10 @@ public class SubjectView extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
-        this.setVisible(false);
-        new QuestionFrame(this).setVisible(true);
+        if (this.selectedConcept != null) {
+            this.setVisible(false);
+            new QuestionFrame(this, this.selectedConcept).setVisible(true);
+        }
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void clearSubject() {
